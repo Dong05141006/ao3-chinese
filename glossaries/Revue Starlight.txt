@@ -1,5 +1,5 @@
 维护者：Dong
-版本号：1.0.0
+版本号：1.0.1
 更新时间：2026-03-09
 
 
@@ -7,10 +7,13 @@
 
 // 圣翔
 Aijō Karen = 爱城 华恋
+Aijou Karen = 爱城 华恋
 Kagura Hikari = 神乐 光
 Tsuyuzaki Mahiru = 露崎 真昼
 Saijō Kurodīnu = 西条 克洛迪娜
+Saijou Kurodīnu = 西条 克洛迪娜
 Tendō Maya = 天堂 真矢
+Tendou Maya = 天堂 真矢
 Hoshimi Junna = 星见 纯那
 Daiba Nana = 大场 奈奈
 Isurugi Futaba = 石动 双叶
@@ -18,6 +21,7 @@ Hanayagi Kaoruko = 花柳 香子
 Amemiya Shion = 雨宫 诗音
 Masai Kiriko = 真井雾子
 Sōda Sawa = 走驼 纱羽
+Souda Sawa = 走驼 纱羽
 
 //凛明馆
 Tomoe Tamao = 巴 珠绪
