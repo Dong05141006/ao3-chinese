@@ -1,5 +1,5 @@
 维护者：Dong
-版本号：1.0.1
+版本号：1.0.2
 更新时间：2026-03-09
 
 
@@ -14,11 +14,17 @@ Saijō Kurodīnu = 西条 克洛迪娜
 Saijou Kurodīnu = 西条 克洛迪娜
 Saijō Claudine = 西条 克洛迪娜
 Saijou Claudine = 西条 克洛迪娜
+Kuroko：克洛子
 Tendō Maya = 天堂 真矢
 Tendou Maya = 天堂 真矢
+Tendo Maya = 天堂 真矢
+Maya：真矢
 Hoshimi Junna = 星见 纯那
+Junjun：纯纯
+Jujun：纯纯
 Daiba Nana = 大场 奈奈
 Isurugi Futaba = 石动 双叶
+Futaba：双叶
 Hanayagi Kaoruko = 花柳 香子
 Amemiya Shion = 雨宫 诗音
 Masai Kiriko = 真井雾子
@@ -30,6 +36,7 @@ Tomoe Tamao = 巴 珠绪
 Otonashi Ichie = 音无 一爱
 Yumeōji Fumi = 梦大路 文
 Yumeouji Fumi = 梦大路 文
+Yumeoji Fumi = 梦大路 文
 Akikaze Rui = 秋风 垒
 Tanaka Yuyuko = 田中 悠悠子
 
@@ -46,9 +53,11 @@ Kochou Shizuha = 胡蝶 静羽
 Yukishiro Akira = 雪代 晶
 Ōtori Michiru = 凤 满
 Outori Michiru = 凤 满
+Otori Michiru = 凤 满
 Liu Meifan = 刘 美帆
 Yumeōji Shiori = 梦大路 栞
 Yumeouji Shiori = 梦大路 栞
+Yumeoji Shiori = 梦大路 栞
 Tsuruhime Yachiyo = 鹤姬 八千代
 
 //青岚
@@ -57,7 +66,10 @@ Minase Suzu = 南风 凉
 Honami Hisame = 穗波 冰雨
 Yakumo Kyōko = 八云 响子
 Yakumo Kyouko = 八云 响子
+Yakumo Kyoko = 八云 响子
 
+//其他
+Judy Knightley = 朱迪·奈特莉
 
 // 地点
 Seisho：圣翔
