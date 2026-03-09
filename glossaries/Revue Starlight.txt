@@ -12,6 +12,8 @@ Kagura Hikari = 神乐 光
 Tsuyuzaki Mahiru = 露崎 真昼
 Saijō Kurodīnu = 西条 克洛迪娜
 Saijou Kurodīnu = 西条 克洛迪娜
+Saijō Claudine = 西条 克洛迪娜
+Saijou Claudine = 西条 克洛迪娜
 Tendō Maya = 天堂 真矢
 Tendou Maya = 天堂 真矢
 Hoshimi Junna = 星见 纯那
@@ -27,21 +29,26 @@ Souda Sawa = 走驼 纱羽
 Tomoe Tamao = 巴 珠绪
 Otonashi Ichie = 音无 一爱
 Yumeōji Fumi = 梦大路 文
+Yumeouji Fumi = 梦大路 文
 Akikaze Rui = 秋风 垒
 Tanaka Yuyuko = 田中 悠悠子
 
 //弗隆提亚
 Otsuki Aruru = 大月 艾露露
 Kanō Misora = 叶 美空
+Kanou Misora = 叶 美空
 Nonomiya Rarafin = 野野宫 拉拉芬
 Ebisu Tsukasa = 惠比寿 司
 Kochō Shizuha = 胡蝶 静羽
+Kochou Shizuha = 胡蝶 静羽
 
 //西格菲尔特
 Yukishiro Akira = 雪代 晶
 Ōtori Michiru = 凤 满
+Outori Michiru = 凤 满
 Liu Meifan = 刘 美帆
 Yumeōji Shiori = 梦大路 栞
+Yumeouji Shiori = 梦大路 栞
 Tsuruhime Yachiyo = 鹤姬 八千代
 
 //青岚
@@ -49,6 +56,7 @@ Yanagi Koharu = 柳 小春
 Minase Suzu = 南风 凉
 Honami Hisame = 穗波 冰雨
 Yakumo Kyōko = 八云 响子
+Yakumo Kyouko = 八云 响子
 
 
 // 地点
@@ -60,7 +68,7 @@ Seiran：青岚
 
 通用词条
 Butai shōjo：舞台少女
-
+Butai shoujo：舞台少女
 
 禁翻词条
 // 角色昵称
