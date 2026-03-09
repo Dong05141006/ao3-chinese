@@ -8,7 +8,9 @@
 // 圣翔
 Aijō Karen = 爱城 华恋
 Aijou Karen = 爱城 华恋
+Bakaren：笨华恋
 Kagura Hikari = 神乐 光
+"Hikari-chan"：小光
 Tsuyuzaki Mahiru = 露崎 真昼
 Saijō Kurodīnu = 西条 克洛迪娜
 Saijou Kurodīnu = 西条 克洛迪娜
@@ -21,13 +23,11 @@ Kuro：克洛
 Tendō Maya = 天堂 真矢
 Tendou Maya = 天堂 真矢
 Tendo Maya = 天堂 真矢
-Maya：真矢
 Hoshimi Junna = 星见 纯那
 Junjun：纯纯
 Jujun：纯纯
 Daiba Nana = 大场 奈奈
 Isurugi Futaba = 石动 双叶
-Futaba：双叶
 Hanayagi Kaoruko = 花柳 香子
 Amemiya Shion = 雨宫 诗音
 Masai Kiriko = 真井雾子
@@ -75,10 +75,12 @@ Yakumo Kyoko = 八云 响子
 Judy Knightley = 朱迪·奈特莉
 "-san"：桑
 "-chan"：酱
+"-han"：亲
 ma：我的
 
 // 地点
 Seisho：圣翔
+Seishou：圣翔
 Rinmeikan：凛明馆
 Frontier：弗隆提亚
 Siegfeld：西格菲尔特
@@ -88,6 +90,7 @@ Seiran：青岚
 Butai shōjo：舞台少女
 Butai shoujo：舞台少女
 Kirin：长颈鹿
+Shoujo Kageki：少女歌剧
 
 禁翻词条
 // 角色昵称
@@ -104,3 +107,11 @@ Top Star
 top star
 Top star
 Oui
+Bonjour
+Merci
+Revue Starlight
+MayaKuro
+Mayakuro
+mayakuro
+junnana
+Junnana
