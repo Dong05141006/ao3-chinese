@@ -1,5 +1,5 @@
 维护者：Dong
-版本号：1.0.3
+版本号：1.0.4
 更新时间：2026-03-09
 
 
@@ -73,10 +73,6 @@ Yakumo Kyoko = 八云 响子
 
 //其他
 Judy Knightley = 朱迪·奈特莉
-"-san"：桑
-"-chan"：酱
-"-han"：亲
-ma：我的
 
 // 地点
 Seisho：圣翔
@@ -91,6 +87,10 @@ Butai shōjo：舞台少女
 Butai shoujo：舞台少女
 Kirin：长颈鹿
 Shoujo Kageki：少女歌剧
+"-san"：桑
+"-chan"：酱
+"-han"：亲
+ma：我的
 
 禁翻词条
 // 角色昵称
