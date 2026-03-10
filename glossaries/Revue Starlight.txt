@@ -1,6 +1,6 @@
 维护者：Dong
-版本号：1.0.4
-更新时间：2026-03-09
+版本号：1.0.5
+更新时间：2026-03-10
 
 
 词条
@@ -19,13 +19,18 @@ Saijō Claudine = 西条 克洛迪娜
 Saijou Claudine = 西条 克洛迪娜
 Saijo Claudine = 西条 克洛迪娜
 Kuroko：克洛子
+"Kuro-ko"：克洛子
 Kuro：克洛
 Tendō Maya = 天堂 真矢
 Tendou Maya = 天堂 真矢
 Tendo Maya = 天堂 真矢
 Hoshimi Junna = 星见 纯那
 Junjun：纯纯
+"Jun-Jun"：纯纯
+"Jun-jun"：纯纯
 Jujun：纯纯
+"Ju-Jun"：纯纯
+"Ju-jun"：纯纯
 Daiba Nana = 大场 奈奈
 Isurugi Futaba = 石动 双叶
 Hanayagi Kaoruko = 花柳 香子
@@ -82,6 +87,10 @@ Frontier：弗隆提亚
 Siegfeld：西格菲尔特
 Seiran：青岚
 
+//其他
+"Senka-ryu"：千华流
+Senkaryu：千华流
+
 通用词条
 Butai shōjo：舞台少女
 Butai shoujo：舞台少女
@@ -90,6 +99,7 @@ Shoujo Kageki：少女歌剧
 "-san"：桑
 "-chan"：酱
 "-han"：亲
+"-gumi"：组
 ma：我的
 
 禁翻词条
