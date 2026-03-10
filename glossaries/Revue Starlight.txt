@@ -1,6 +1,6 @@
 维护者：Dong
-版本号：1.0.5
-更新时间：2026-03-10
+版本号：1.0.6
+更新时间：2026-03-11
 
 
 词条
@@ -90,19 +90,25 @@ Seiran：青岚
 //其他
 "Senka-ryu"：千华流
 Senkaryu：千华流
+Flora：芙洛拉
+Claire：克莱尔
 
 通用词条
 Butai shōjo：舞台少女
 Butai shoujo：舞台少女
 Shoujo Kageki：少女歌剧
 Kirin：长颈鹿
+kirameki：キラめき（闪闪发光）
+megami：女神
 mayakuro：真矢克洛
 kuromaya：克洛真矢
 junana：纯那奈奈
 "-san"：桑
 "-chan"：酱
 "-han"：亲
+"-sama"：大人
 "-gumi"：组
+guni：组
 ma：我的
 
 禁翻词条
