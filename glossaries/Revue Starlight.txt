@@ -35,7 +35,7 @@ Daiba Nana = 大场 奈奈
 Isurugi Futaba = 石动 双叶
 Hanayagi Kaoruko = 花柳 香子
 Amemiya Shion = 雨宫 诗音
-Masai Kiriko = 真井雾子
+Masai Kiriko = 真井 雾子
 Sōda Sawa = 走驼 纱羽
 Souda Sawa = 走驼 纱羽
 
@@ -94,8 +94,11 @@ Senkaryu：千华流
 通用词条
 Butai shōjo：舞台少女
 Butai shoujo：舞台少女
-Kirin：长颈鹿
 Shoujo Kageki：少女歌剧
+Kirin：长颈鹿
+mayakuro：真矢克洛
+kuromaya：克洛真矢
+junana：纯那奈奈
 "-san"：桑
 "-chan"：酱
 "-han"：亲
@@ -109,7 +112,8 @@ Banana
 // 戏剧
 Starlight
 
-//专有名词
+//其他
+Revue Starlight
 Position Zero
 Position zero
 position zero
@@ -119,9 +123,3 @@ Top star
 Oui
 Bonjour
 Merci
-Revue Starlight
-MayaKuro
-Mayakuro
-mayakuro
-junnana
-Junnana
