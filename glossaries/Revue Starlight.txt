@@ -92,6 +92,14 @@ Seiran：青岚
 Senkaryu：千华流
 Flora：芙洛拉
 Claire：克莱尔
+Hoshitsumi no Uta：摘星之歌
+The Distant El Dorado：遥远的黄金国
+Alejandro：亚历杭德罗
+Salvatore：萨尔瓦托
+Zulfikar：佐勒菲卡尔
+Carmencita：
+
+
 
 通用词条
 Butai shōjo：舞台少女
@@ -109,6 +117,9 @@ junana：纯那奈奈
 "-sama"：大人
 "-gumi"：组
 guni：组
+"-senpai"：前辈
+"-sensei"：老师
+Sensei：老师
 ma：我的
 
 禁翻词条
@@ -126,6 +137,8 @@ position zero
 Top Star
 top star
 Top star
+Fly Me to the Star
 Oui
 Bonjour
 Merci
+
