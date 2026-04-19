@@ -1,6 +1,6 @@
 维护者：Dong
-版本号：1.0.7
-更新时间：2026-03-12
+版本号：1.0.8
+更新时间：2026-04-19
 
 
 词条
@@ -8,23 +8,31 @@
 // 圣翔
 Aijō Karen = 爱城 华恋
 Aijou Karen = 爱城 华恋
+AIJOU KAREN = 爱城 华恋
 Bakaren：笨华恋
 Kagura Hikari = 神乐 光
+KAGURA HIKARI = 神乐 光
 "Hikari-chan"：小光
 Tsuyuzaki Mahiru = 露崎 真昼
+TSUYUZAKI MAHIRU = 露崎 真昼
 Saijō Kurodīnu = 西条 克洛迪娜
 Saijou Kurodīnu = 西条 克洛迪娜
 Saijo Kurodīnu = 西条 克洛迪娜
 Saijō Claudine = 西条 克洛迪娜
 Saijou Claudine = 西条 克洛迪娜
 Saijo Claudine = 西条 克洛迪娜
+SAIJOU CLAUDINE = 西条 克洛迪娜
+SAIJO CLAUDINE = 西条 克洛迪娜
 Kuroko：克洛子
 "Kuro-ko"：克洛子
 Kuro：克洛
 Tendō Maya = 天堂 真矢
 Tendou Maya = 天堂 真矢
 Tendo Maya = 天堂 真矢
+TENDOU MAYA = 天堂 真矢
+TENDO MAYA = 天堂 真矢
 Hoshimi Junna = 星见 纯那
+HOSHIMI JUNNA = 星见 纯那
 Junjun：纯纯
 "Jun-Jun"：纯纯
 "Jun-jun"：纯纯
@@ -32,12 +40,37 @@ Jujun：纯纯
 "Ju-Jun"：纯纯
 "Ju-jun"：纯纯
 Daiba Nana = 大场 奈奈
+DAIBA NANA = 大场 奈奈
 Isurugi Futaba = 石动 双叶
+ISURUGI FUTABA = 石动 双叶
 Hanayagi Kaoruko = 花柳 香子
+HANAYAGI KAORUKO = 花柳 香子
 Amemiya Shion = 雨宫 诗音
+AMEMIYA SHION = 雨宫 诗音
 Masai Kiriko = 真井 雾子
+MASAI KIRIKO = 真井 雾子
 Sōda Sawa = 走驼 纱羽
 Souda Sawa = 走驼 纱羽
+SOUDA SAWA = 走驼 纱羽
+Watasato Tsuruko = 绵里 鹤子
+WATASATO TSURUKO = 绵里 鹤子
+Karasumaru Urara = 乌丸 丽罗
+KARASUMARU URARA = 乌丸 丽罗
+Sakuragi Rei = 樱木 丽
+SAKURAGI REI = 樱木 丽
+Yanagi Sakura = 柳 樱
+YANAGI SAKURA = 柳 樱
+Shiraha Reira = 白跳 蕾拉
+SHIRAHA REIRA = 白跳 蕾拉
+shindō namie = 进藤 波江
+Shindō Namie = 进藤 波江
+Shindo Namie = 进藤 波江
+Shindou Namie = 进藤 波江
+SHINDO NAMIE = 进藤 波江
+SHINDOU NAMIE = 进藤 波江
+
+
+
 
 //凛明馆
 Tomoe Tamao = 巴 珠绪
