@@ -174,13 +174,9 @@ mayakuro：真矢克洛
 kuromaya：克洛真矢
 junana：纯那奈奈
 "-san"：桑
-san：桑
 "-chan"：酱
-chan：酱
 "-han"：亲
-han：亲
 "-sama"：大人
-sama：大人
 "-gumi"：组
 gumi：组
 "-senpai"：前辈
