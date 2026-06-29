@@ -1,6 +1,6 @@
 维护者：Dong
-版本号：1.0.8
-更新时间：2026-04-19
+版本号：1.0.9
+更新时间：2026-06-29
 
 
 词条
@@ -10,6 +10,7 @@ Aijō Karen = 爱城 华恋
 Aijou Karen = 爱城 华恋
 AIJOU KAREN = 爱城 华恋
 Bakaren：笨华恋
+BAKAREN：笨华恋
 Kagura Hikari = 神乐 光
 KAGURA HIKARI = 神乐 光
 "Hikari-chan"：小光
@@ -110,7 +111,39 @@ Yakumo Kyouko = 八云 响子
 Yakumo Kyoko = 八云 响子
 
 //其他
-Judy Knightley = 朱迪·奈特莉
+Judy Knightley = 朱迪 奈特莉
+"Judy Knightley"：朱迪 奈特莉
+Alejandro Javier Caballero Cruz = 亚历杭德罗 哈维尔 卡巴列罗 克罗斯
+"Alejandro Javier Caballero Cruz"：亚历杭德罗·哈维尔·卡巴列罗·克罗斯
+Salvatore Guglie = 萨尔瓦托 古列尔
+"Salvatore Guglie"：萨尔瓦托·古列尔
+Isabel de Aragón y Castilla = 伊莎贝尔 D 阿拉贡 E 卡斯蒂利亚
+"Isabel de Aragón y Castilla"：伊莎贝尔·D·阿拉贡·E·卡斯蒂利亚
+Isabel de Aragon y Castilla = 伊莎贝尔 D 阿拉贡 E 卡斯蒂利亚
+"Isabel de Aragon y Castilla"：伊莎贝尔·D·阿拉贡·E·卡斯蒂利亚
+Miguel Noriega = 米格尔 诺列加
+"Miguel Noriega"：米格尔·诺列加
+Cristopher Colombus = 克里斯托弗 哥伦布
+"Cristopher Colombus"：克里斯托弗·哥伦布
+Cristobal Colón = 克里斯托瓦尔 哥伦
+"Cristobal Colón"：克里斯托瓦尔·哥伦
+Cristobal Colon = 克里斯托瓦尔 哥伦
+"Cristobal Colon"：克里斯托瓦尔·哥伦
+Luigi Graziani = 路易吉 格拉齐亚尼
+"Luigi Graziani"：路易吉·格拉齐亚尼
+Giovanni Negretti = 乔瓦尼 涅库雷提
+"Giovanni Negretti"：乔瓦尼·涅库雷提
+Carmen María Caballero Cruz = 卡门 玛利亚 卡巴列罗 克罗斯
+"Carmen María Caballero Cruz"：卡门·玛利亚·卡巴列罗·克罗斯
+Carmen Maria Caballero Cruz = 卡门 玛利亚 卡巴列罗 克罗斯
+"Carmen Maria Caballero Cruz"：卡门·玛利亚·卡巴列罗·克罗斯
+Carmencita：卡门西塔
+Pablo：帕布罗
+Antonio Caballero Hernández = 安东尼奥 卡巴列罗 埃尔南德斯
+"Antonio Caballero Hernández"：安东尼奥·卡巴列罗·埃尔南德斯
+Antonio Caballero Hernandez = 安东尼奥 卡巴列罗 埃尔南德斯
+"Antonio Caballero Hernandez"：安东尼奥·卡巴列罗·埃尔南德斯
+Zulfikar：佐勒菲卡尔
 
 // 地点
 Seisho：圣翔
@@ -126,19 +159,12 @@ Senkaryu：千华流
 Flora：芙洛拉
 Claire：克莱尔
 Hoshitsumi no Uta：摘星之歌
-The Distant El Dorado：遥远的黄金国
-Alejandro：亚历杭德罗
-Salvatore：萨尔瓦托
-Zulfikar：佐勒菲卡尔
-Carmencita：
-
+Distant El Dorado：遥远的黄金乡
 
 
 通用词条
-Butai shōjo：舞台少女
-Butai shoujo：舞台少女
-stage girl：舞台少女
-Stage girl：舞台少女
+Butai Shōjo：舞台少女
+Butai Shoujo：舞台少女
 Stage Girl：舞台少女
 Shoujo Kageki：少女歌剧
 Kirin：长颈鹿
@@ -148,14 +174,19 @@ mayakuro：真矢克洛
 kuromaya：克洛真矢
 junana：纯那奈奈
 "-san"：桑
+san：桑
 "-chan"：酱
+chan：酱
 "-han"：亲
+han：亲
 "-sama"：大人
+sama：大人
 "-gumi"：组
-guni：组
+gumi：组
 "-senpai"：前辈
+senpai：前辈
 "-sensei"：老师
-Sensei：老师
+sensei：老师
 ma：我的
 
 禁翻词条
@@ -164,6 +195,7 @@ Banana
 
 // 戏剧
 Starlight
+STARLIGHT
 
 //其他
 Revue Starlight
@@ -176,5 +208,6 @@ Top star
 Fly Me to the Star
 Oui
 Bonjour
+Bonsoir
 Merci
 
